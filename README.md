@@ -1,4 +1,4 @@
-# Scrip de consulta de agenda
+# Script de consulta de agenda
 Código de consulta de nome em uma agenda
 
 
